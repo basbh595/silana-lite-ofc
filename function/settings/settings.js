@@ -14,16 +14,16 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '967781974099',
+ pairingNumber : '967781974099',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomorwa : '967781974099',
+ nameown : 'ذاك الامير',
+ nomerown : '967781974099',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'ذاك الامير',
+ namebot : '乂 ذاك الامير',
+ wm : 'ذاك الامير.',
  stickpack : 'Whatsapp',
  stickauth : 'SILANA LITE',
  jid: '@s.whatsapp.net'
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://',
+ sgh:  'https:',
+ sgc: 'https://whatsapp.com/channel/0029VaqzvqH3AzNQJq2GDD2o'
 }
 // Donasi
 global.payment = {
@@ -88,11 +88,11 @@ global.api = {
 
 }
 global.APIs = {
-    xyro: "https://api.xyroinee.xyz",
-    nightTeam: "https://api.tioxy.my.id",
-    lol: "https://api.lolhumaan.xyz",
-    smm: "https://smmnusantara.id",
-    lapak: "https://panel.lapaksosmed.com"
+    xyro: "https://api.xyroinee.xy",
+    nightTeam: "https://ai.tioxy.my.id",
+    lol: "https://api.llhumaan.xyz",
+    smm: "https://smnusantara.id",
+    lapak: "https://panel.lapakssmed.com"
 }
 
 //Apikey
